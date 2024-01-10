@@ -1,14 +1,25 @@
+# Iris-Flower-Classification-
 
-TASK 3-
-Iris Classification :
-Develop a ML Model for classifying iris
-flowers based on their features using
-Python, scikit-learn, and TensorFlow.
-The Iris classification problem
-Imagine you are a botanist seeking an automated way to categorize each Iris flower you find. Machine learning provides many algorithms to classify flowers statistically. For instance, a sophisticated machine learning program could classify flowers based on photographs. Our ambitions are more modest—we're going to classify Iris flowers based on the length and width measurements of their sepals and petals.
+## Introduction:
 
-The Iris genus entails about 300 species, but our program will only classify the following three:
+In this beginner's mini-project, I have implemented various Classification Algorithms of Machine Learning on Fisher's Iris Data to predict the species of a new sample of Iris flower.
+This project uses UCI repository as the dataset (http://archive.ics.uci.edu/ml/datasets/Iris)
+The data set consists of 50 samples from each of three species of Iris.
 
-1)Iris setosa
-2)Iris virginica
-3)Iris versicolor
+## Features:
+1. Length of the sepals
+2. Width of the sepals
+3. Length of the petals
+4. Width of the petals
+
+
+## Predicted Attribute (Target Variable):
+
+Different species of Iris Plant
+
+
+
+## Purpose:
+
+To gain exposure to Machine Learning Classification concepts along with data visualization. 
+
